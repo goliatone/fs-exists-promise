@@ -1,0 +1,23 @@
+{
+  "name": "fs-exists-promise",
+  "version": "0.1.0",
+  "description": "async fs exists promise",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/goliatone/fs-exists-promise.git"
+  },
+  "keywords": [
+    "fs",
+    "promise"
+  ],
+  "author": "goliatone",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/goliatone/fs-exists-promise/issues"
+  },
+  "homepage": "https://github.com/goliatone/fs-exists-promise#readme"
+}
